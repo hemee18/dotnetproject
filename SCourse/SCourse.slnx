@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SCourse.DataAccess/SCourse.DataAccess.csproj" />
+  <Project Path="SCourse.Entities/SCourse.Entities.csproj" />
+  <Project Path="SCourse.Web.UI/SCourse.Web.UI.csproj" />
+</Solution>
